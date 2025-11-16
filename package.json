@@ -10,8 +10,7 @@
   "lint": "eslint .",
   "preview": "vite preview",
   "start": "npm run preview"
-}
-  },
+},
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
     "@mediapipe/camera_utils": "^0.3.1675466862",
